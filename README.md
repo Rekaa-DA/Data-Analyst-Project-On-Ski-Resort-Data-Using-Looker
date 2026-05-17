@@ -124,9 +124,6 @@ Infrastructure alone does not determine pricing; perceived value plays a stronge
 🏔️ Focus: Tourism & Business Intelligence Dashboards
 🚀 Open to opportunities
 
----
-
-## 📌 Live Dashboard
-
-👉 Add here: **Your Looker Studio Link**
-
+## 📌 Live Dashboard  
+Click below to explore interactive dashboard:  
+https://datastudio.google.com/s/httDFT-8bWU

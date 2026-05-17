@@ -1,12 +1,8 @@
 # 🏔️ Ski Resort Data Analytics Dashboard – Looker Studio
 
----
-
 ## 📊 Dashboard Preview
 
 <img width="997" height="755" alt="Dashboard" src="https://github.com/user-attachments/assets/2021d131-460b-4d7e-9143-da40b0927436" />
-
----
 
 ## 📌 Project Summary
 
@@ -21,8 +17,6 @@
 * 🎿 Infrastructure analysis (slopes & lifts)
 * 🏔️ Resort performance comparison
 
----
-
 ## 🚀 Tech Stack
 
 <p>
@@ -30,8 +24,6 @@
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00"/>
 </p>
-
----
 
 ## 🎯 Objectives
 
@@ -42,8 +34,6 @@
 5. Evaluate market dominance by region
 6. Compare resort performance across countries
 7. Extract business insights from tourism data
-
----
 
 ## ⚡ Tech Hacks
 
@@ -56,8 +46,6 @@
 * Found clustering of resorts around ~600 slope capacity
 * Derived business insights for tourism and pricing strategy
 
----
-
 ## 📊 Key Metrics
 
 * 🌍 Total Resorts Analyzed: 499
@@ -65,8 +53,6 @@
 * 🚡 Total Lifts: 12,107
 * 💰 Europe Market Share: ~70%
 * 🏔️ Average Infrastructure Cluster: ~600 slopes per resort
-
----
 
 ## 🔍 Key Insights
 
@@ -78,8 +64,6 @@
 6. 🌎 Asia and South America remain emerging ski markets
 7. 📊 Clear segmentation exists between premium and mid-tier resorts
 
----
-
 ## 📌 Conclusion
 
 * The global ski industry is heavily concentrated in Europe
@@ -89,15 +73,11 @@
 * Looker Studio effectively transforms tourism data into actionable business insights
 * Data-driven analysis helps understand geography, pricing, and tourism behavior
 
----
-
 ## 🛠️ Tools Used
 
 * Looker Studio
 * Google Sheets
 * Data Analysis & Visualization
-
----
 
 ## 👤 Author
 

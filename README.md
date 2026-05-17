@@ -1,127 +1,88 @@
-# 🏔️ Ski Resort Data Analytics Dashboard – Looker Studio
+🏔️ Ski Resort Data Analytics Dashboard – Looker Studio
 
-## 📊 Project Preview
+ 📊 Dashboard Preview
 
 <img width="997" height="755" alt="Dashboard" src="https://github.com/user-attachments/assets/2021d131-460b-4d7e-9143-da40b0927436" />
 
+📌 Project Summary
 
-## 🎯 Objective
+📊 This project analyzes global ski resort data to understand geographic distribution, pricing behavior, infrastructure strength, and market segmentation between premium and mid-tier resorts.
 
-The objective of this project is to analyze a global ski resort dataset and extract meaningful insights on pricing, infrastructure, and geographical distribution.
+🎯 The dashboard was built using Looker Studio and Google Sheets to transform raw tourism data into interactive business insights and strategic analysis.
 
-This analysis aims to understand:
+📌 The project includes key analytical areas:
 
-* 🌍 How ski resorts are distributed globally
-* 💰 How pricing varies across countries and regions
-* 🎿 How infrastructure (slopes & lifts) differs between resorts
-* 🏔️ What factors define premium vs mid-tier ski resorts
+* 🌍 Global market distribution analysis
+* 💰 Pricing pattern analysis across countries
+* 🎿 Infrastructure analysis (slopes & lifts)
+* 🏔️ Resort performance comparison
 
-## 🧩 Problem Statement
+🚀 Tech Stack
 
-The ski tourism industry generates large volumes of fragmented data across countries. However, there is limited clarity on:
+<p>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00"/>
+</p>
 
-* Which regions dominate the ski resort market
-* Whether pricing is driven by infrastructure or location
-* How ski resorts compare in terms of capacity and scale
+🎯 Objectives
 
-This project solves this by transforming raw data into a structured visual analysis using Looker Studio.
+1. Analyze global distribution of ski resorts
+2. Understand pricing differences across countries
+3. Study infrastructure strength (slopes and lifts)
+4. Identify premium vs mid-tier resort behavior
+5. Evaluate market dominance by region
+6. Compare resort performance across countries
+7. Extract business insights from tourism data
 
-## 📌 Executive Summary
+⚡Tech Hacks
 
-This project analyzes a **global ski resort dataset (499 resorts)** using **Looker Studio** to uncover insights around pricing patterns, infrastructure capacity, and regional dominance in the ski tourism industry.
+* Built an interactive dashboard using Looker Studio for tourism analytics
+* Used Google Sheets for data cleaning and preparation
+* Analyzed 499 ski resorts across multiple countries
+* Identified Europe as the dominant ski tourism market (~70%)
+* Performed pricing analysis across premium and mid-tier regions
+* Evaluated infrastructure patterns using slopes and lift data
+* Found clustering of resorts around ~600 slope capacity
+* Derived business insights for tourism and pricing strategy
 
-## 🎯 Key Performance Indicators (KPIs)
+📊 Key Metrics
 
-* 💰 Average Resort Price: **48.72**
-* 🏔️ Total Resorts: **499**
-* 🎿 Total Slopes: **42,867**
-* 🚡 Total Lifts: **12,107**
-* 🏗️ Total Lift Capacity: **~15.79M**
+* 🌍 Total Resorts Analyzed: 499
+* 🎿 Total Slopes: 42,867
+* 🚡 Total Lifts: 12,107
+* 💰 Europe Market Share: ~70%
+* 🏔️ Average Infrastructure Cluster: ~600 slopes per resort
 
-## 🌍 Market Distribution Analysis
+🔍 Key Insights
 
-### 🗺️ Continental Breakdown
+1. 🌍 Europe dominates global ski tourism with ~70% of resorts
+2. 💰 USA, Switzerland, and Austria show premium pricing trends
+3. 🎿 Infrastructure is highly standardized across most resorts
+4. 🏔️ Most resorts cluster around mid-scale capacity (~600 slopes)
+5. 📉 Pricing is driven more by geography than infrastructure size
+6. 🌎 Asia and South America remain emerging ski markets
+7. 📊 Clear segmentation exists between premium and mid-tier resorts
 
-* Europe dominates the global ski market with **~70.6% share**
-* North America holds the second-largest concentration
-* Asia, Oceania, and South America represent emerging markets
+📌 Conclusion
 
-📌 **Insight:**
-The ski tourism industry is heavily Europe-centric due to geography, climate, and mature infrastructure.
+* The global ski industry is heavily concentrated in Europe
+* Pricing strategies are influenced more by location and demand than infrastructure
+* Ski resorts show standardized infrastructure development patterns
+* The market clearly segments into premium and mid-tier categories
+* Looker Studio effectively transforms tourism data into actionable business insights
+* Data-driven analysis helps understand geography, pricing, and tourism behavior
 
-### 🌎 Country-Level Insights
+🛠️ Tools Used
 
-Top contributing countries:
+* Looker Studio
+* Google Sheets
+* Data Analysis & Visualizatio
 
-* 🇺🇸 United States
-* 🇦🇹 Austria
-* 🇫🇷 France
-* 🇨🇭 Switzerland
-* 🇮🇹 Italy
+👤 Author
 
-📌 **Insight:**
-Ski resorts are concentrated in developed mountainous regions with strong tourism infrastructure.
-
-## 💰 Pricing Analysis
-
-* Premium pricing observed in:
-
-  * United States
-  * Switzerland
-  * Austria
-
-* Lower to mid-range pricing in emerging ski regions
-
-📌 **Insight:**
-Pricing is influenced more by location, brand value, and tourism demand than infrastructure size alone.
-
-## 🎿 Infrastructure Analysis
-
-* Total slopes: **42,867**
-* Total lifts: **12,107**
-* Most resorts cluster around ~600 slopes
-
-📌 **Insight:**
-Infrastructure scales with tourism demand, showing standardized development patterns across resorts.
-
-## 🏔️ Top Performing Resorts
-
-* Borovets Alpine Base → **$111 price | 677 slopes**
-* Bansko Snow Valley → **$83 price | 677 slopes**
-* Several resorts cluster around **~600 slope capacity**
-
-📌 **Insight:**
-Top resorts balance infrastructure size, pricing, and tourist attractiveness.
-
-## 📉 Price vs Infrastructure Relationship
-
-* Weak to moderate correlation between price and slope count
-* Some mid-tier resorts outperform premium ones in infrastructure
-* Pricing depends heavily on geography and brand positioning
-
-📌 **Insight:**
-Infrastructure alone does not determine pricing; perceived value plays a stronger role.
-
-## 📌 Key Business Insights
-
-* 🌍 Europe dominates global ski tourism (~70%)
-* 💰 Average pricing remains moderate at 48.72
-* 🎿 Infrastructure is fairly standardized across many resorts
-* 🏔️ Strong clustering in developed mountainous regions
-* 📊 Pricing is not directly proportional to infrastructure size
-* 🏆 Clear segmentation between premium and mid-tier resorts
-
-## 🛠️ Tools & Technologies
-
-* 📊 Looker Studio
-* 📂 Google Sheets / Dataset
-* 📈 Data Visualization & Storytelling
-
-## 👤 Author
-
-**Rekaa**
+Rekaa
 📊 Aspiring Data Analyst
-🏔️ Focus: Tourism & Business Intelligence Dashboards
 🚀 Open to opportunities
 
 ## 📌 Live Dashboard  

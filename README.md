@@ -2,11 +2,8 @@
 
 ## 📊 Project Preview
 
-<p align="center">
-  <img src="Dashboard(1).png" width="900"/>
-</p>
+<img width="997" height="755" alt="Dashboard" src="https://github.com/user-attachments/assets/2021d131-460b-4d7e-9143-da40b0927436" />
 
----
 
 ## 🎯 Objective
 
@@ -19,8 +16,6 @@ This analysis aims to understand:
 * 🎿 How infrastructure (slopes & lifts) differs between resorts
 * 🏔️ What factors define premium vs mid-tier ski resorts
 
----
-
 ## 🧩 Problem Statement
 
 The ski tourism industry generates large volumes of fragmented data across countries. However, there is limited clarity on:
@@ -31,13 +26,9 @@ The ski tourism industry generates large volumes of fragmented data across count
 
 This project solves this by transforming raw data into a structured visual analysis using Looker Studio.
 
----
-
 ## 📌 Executive Summary
 
 This project analyzes a **global ski resort dataset (499 resorts)** using **Looker Studio** to uncover insights around pricing patterns, infrastructure capacity, and regional dominance in the ski tourism industry.
-
----
 
 ## 🎯 Key Performance Indicators (KPIs)
 
@@ -46,8 +37,6 @@ This project analyzes a **global ski resort dataset (499 resorts)** using **Look
 * 🎿 Total Slopes: **42,867**
 * 🚡 Total Lifts: **12,107**
 * 🏗️ Total Lift Capacity: **~15.79M**
-
----
 
 ## 🌍 Market Distribution Analysis
 
@@ -59,8 +48,6 @@ This project analyzes a **global ski resort dataset (499 resorts)** using **Look
 
 📌 **Insight:**
 The ski tourism industry is heavily Europe-centric due to geography, climate, and mature infrastructure.
-
----
 
 ### 🌎 Country-Level Insights
 
@@ -75,8 +62,6 @@ Top contributing countries:
 📌 **Insight:**
 Ski resorts are concentrated in developed mountainous regions with strong tourism infrastructure.
 
----
-
 ## 💰 Pricing Analysis
 
 * Premium pricing observed in:
@@ -90,8 +75,6 @@ Ski resorts are concentrated in developed mountainous regions with strong touris
 📌 **Insight:**
 Pricing is influenced more by location, brand value, and tourism demand than infrastructure size alone.
 
----
-
 ## 🎿 Infrastructure Analysis
 
 * Total slopes: **42,867**
@@ -100,8 +83,6 @@ Pricing is influenced more by location, brand value, and tourism demand than inf
 
 📌 **Insight:**
 Infrastructure scales with tourism demand, showing standardized development patterns across resorts.
-
----
 
 ## 🏔️ Top Performing Resorts
 
@@ -112,8 +93,6 @@ Infrastructure scales with tourism demand, showing standardized development patt
 📌 **Insight:**
 Top resorts balance infrastructure size, pricing, and tourist attractiveness.
 
----
-
 ## 📉 Price vs Infrastructure Relationship
 
 * Weak to moderate correlation between price and slope count
@@ -122,8 +101,6 @@ Top resorts balance infrastructure size, pricing, and tourist attractiveness.
 
 📌 **Insight:**
 Infrastructure alone does not determine pricing; perceived value plays a stronger role.
-
----
 
 ## 📌 Key Business Insights
 
@@ -134,15 +111,11 @@ Infrastructure alone does not determine pricing; perceived value plays a stronge
 * 📊 Pricing is not directly proportional to infrastructure size
 * 🏆 Clear segmentation between premium and mid-tier resorts
 
----
-
 ## 🛠️ Tools & Technologies
 
 * 📊 Looker Studio
 * 📂 Google Sheets / Dataset
 * 📈 Data Visualization & Storytelling
-
----
 
 ## 👤 Author
 

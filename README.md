@@ -1,10 +1,4 @@
-Got it — I can upgrade your **Looker Studio Ski Resort project README using your actual dashboard metrics + visuals** into a clean portfolio-level case study.
-
-Here is your improved GitHub README 👇
-
----
-
-# 🏔️ Ski Resort Data Analytics – Looker Studio Dashboard
+🏔️ Ski Resort Data Analytics – Looker Studio Dashboard
 
 ## 📊 Dashboard Preview
 

@@ -1,10 +1,9 @@
-🏔️ Ski Resort Data Analytics – Looker Studio Dashboard
+# 🏔️ Ski Resort Data Analytics Dashboard
 
 ## 📊 Dashboard Preview
 
-![Ski Resort Dashboard](Dashboard\(1\).png)
+<img width="997" height="755" alt="Dashboard" src="https://github.com/user-attachments/assets/aa2257c4-b27f-49d6-ae3f-5453fbdb8b54" />
 
----
 
 ## 📌 Project Overview
 
@@ -17,8 +16,6 @@
 * Infrastructure (lifts & slopes)
 * Regional tourism dominance
 
----
-
 ## 📊 Key Business KPIs
 
 💰 **Average Resort Price:** 48.72
@@ -26,8 +23,6 @@
 🎿 **Total Slopes:** 42,867
 🚡 **Total Lifts:** 12,107
 🏗️ **Total Lift Capacity:** ~15.79M
-
----
 
 ## 🌍 Global Distribution Insights
 
@@ -40,8 +35,6 @@
 📌 Insight:
 The ski tourism industry is **highly Europe-centric**, making it the global leader in winter sports infrastructure.
 
----
-
 ### 🌎 Country-Level Distribution
 
 * United States, Austria, France, Switzerland, and Italy are major contributors
@@ -50,8 +43,6 @@ The ski tourism industry is **highly Europe-centric**, making it the global lead
 
 📌 Insight:
 Ski tourism is concentrated in **developed, mountainous regions with cold climates**
-
----
 
 ## 💰 Pricing Analysis
 
@@ -71,8 +62,6 @@ There is a **clear pricing segmentation**:
 * Premium ski markets (Europe & US)
 * Budget-friendly ski destinations (emerging regions)
 
----
-
 ## 🎿 Infrastructure Insights
 
 ### 🚡 Lift & Slope Capacity
@@ -83,8 +72,6 @@ There is a **clear pricing segmentation**:
 
 📌 Insight:
 Resorts with higher slope counts tend to invest heavily in lift systems, indicating **demand-driven infrastructure scaling**.
-
----
 
 ## 🏔️ Top Resort Performance
 
@@ -100,7 +87,6 @@ Top resorts balance:
 * High slope availability
 * Premium pricing strategy
 
----
 
 ## 📊 Price vs Slopes Analysis
 
@@ -113,7 +99,6 @@ Top resorts balance:
 📌 Insight:
 Other factors like **location, brand value, and country influence pricing more than infrastructure alone**
 
----
 
 ## 🎯 Key Insights Summary
 
@@ -125,8 +110,6 @@ Other factors like **location, brand value, and country influence pricing more t
 6. 📊 Price is not directly proportional to slope capacity
 7. 🏆 A few premium resorts drive market segmentation
 
----
-
 ## 📈 Dashboard Features
 
 ✨ Interactive Looker Studio dashboard
@@ -137,8 +120,6 @@ Other factors like **location, brand value, and country influence pricing more t
 ✨ Resort comparison table
 ✨ Pie & bar charts for distribution insights
 
----
-
 ## 🎯 Business Objectives
 
 * 🌍 Analyze global ski resort distribution
@@ -148,15 +129,11 @@ Other factors like **location, brand value, and country influence pricing more t
 * 📊 Study tourism concentration patterns
 * 🚀 Support travel & tourism insights
 
----
-
 ## 🛠️ Tools Used
 
 * 📊 Looker Studio
 * 📂 Google Sheets / Dataset
 * 📈 Data Visualization Techniques
-
----
 
 ## 👤 Author
 
@@ -165,16 +142,8 @@ Other factors like **location, brand value, and country influence pricing more t
 🏔️ Passionate about tourism analytics & dashboards
 🚀 Open to opportunities
 
----
-
 ## 📌 Repository Note
 
 👉 Add your live dashboard link here:
 **[Looker Studio Report Link]**
 
----
-
-If you want next upgrade, I can also:
-✅ Turn this into a **LinkedIn post (viral-style analytics story)**
-✅ Add **“insight storytelling like McKinsey report” level writing**
-✅ Or build a **portfolio website version of this project**

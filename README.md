@@ -1,10 +1,14 @@
-🏔️ Ski Resort Data Analytics Dashboard – Looker Studio
+# 🏔️ Ski Resort Data Analytics Dashboard – Looker Studio
 
- 📊 Dashboard Preview
+---
+
+## 📊 Dashboard Preview
 
 <img width="997" height="755" alt="Dashboard" src="https://github.com/user-attachments/assets/2021d131-460b-4d7e-9143-da40b0927436" />
 
-📌 Project Summary
+---
+
+## 📌 Project Summary
 
 📊 This project analyzes global ski resort data to understand geographic distribution, pricing behavior, infrastructure strength, and market segmentation between premium and mid-tier resorts.
 
@@ -17,7 +21,9 @@
 * 🎿 Infrastructure analysis (slopes & lifts)
 * 🏔️ Resort performance comparison
 
-🚀 Tech Stack
+---
+
+## 🚀 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white"/>
@@ -25,7 +31,9 @@
   <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00"/>
 </p>
 
-🎯 Objectives
+---
+
+## 🎯 Objectives
 
 1. Analyze global distribution of ski resorts
 2. Understand pricing differences across countries
@@ -35,7 +43,9 @@
 6. Compare resort performance across countries
 7. Extract business insights from tourism data
 
-⚡Tech Hacks
+---
+
+## ⚡ Tech Hacks
 
 * Built an interactive dashboard using Looker Studio for tourism analytics
 * Used Google Sheets for data cleaning and preparation
@@ -46,7 +56,9 @@
 * Found clustering of resorts around ~600 slope capacity
 * Derived business insights for tourism and pricing strategy
 
-📊 Key Metrics
+---
+
+## 📊 Key Metrics
 
 * 🌍 Total Resorts Analyzed: 499
 * 🎿 Total Slopes: 42,867
@@ -54,7 +66,9 @@
 * 💰 Europe Market Share: ~70%
 * 🏔️ Average Infrastructure Cluster: ~600 slopes per resort
 
-🔍 Key Insights
+---
+
+## 🔍 Key Insights
 
 1. 🌍 Europe dominates global ski tourism with ~70% of resorts
 2. 💰 USA, Switzerland, and Austria show premium pricing trends
@@ -64,7 +78,9 @@
 6. 🌎 Asia and South America remain emerging ski markets
 7. 📊 Clear segmentation exists between premium and mid-tier resorts
 
-📌 Conclusion
+---
+
+## 📌 Conclusion
 
 * The global ski industry is heavily concentrated in Europe
 * Pricing strategies are influenced more by location and demand than infrastructure
@@ -73,13 +89,17 @@
 * Looker Studio effectively transforms tourism data into actionable business insights
 * Data-driven analysis helps understand geography, pricing, and tourism behavior
 
-🛠️ Tools Used
+---
+
+## 🛠️ Tools Used
 
 * Looker Studio
 * Google Sheets
-* Data Analysis & Visualizatio
+* Data Analysis & Visualization
 
-👤 Author
+---
+
+## 👤 Author
 
 Rekaa
 📊 Aspiring Data Analyst

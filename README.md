@@ -1,12 +1,11 @@
 # 🤖 GitHub Repository Data Automation using n8n
 
-## 📊 Workflow & Dashboard Preview
+## Workflow 
 
-<img width="1000" alt="n8n Workflow" src="YOUR_N8N_WORKFLOW_IMAGE_LINK" />
+<img width="1652" height="700" alt="Workflow Screenshot" src="https://github.com/user-attachments/assets/997499eb-4a35-47c5-8e76-33a74698c2f3" />
 
-<img width="1000" alt="Power BI Dashboard" src="YOUR_POWERBI_DASHBOARD_IMAGE_LINK" />
-
----
+## Dashboard Preview
+<img width="974" height="525" alt="image" src="https://github.com/user-attachments/assets/2fed3121-8464-421d-a39e-2a316f019b0f" />
 
 # 📌 Project Summary
 
@@ -22,8 +21,6 @@ The workflow includes:
 * Automated workflow using n8n
 * Google Sheets integration
 * Automatic Power BI dashboard updates
-
----
 
 # 🚀 Tech Stack
 

@@ -1,90 +1,261 @@
-# 🏔️ Ski Resort Data Analytics Dashboard – Looker Studio
+# 🤖 GitHub Repository Data Automation using n8n
 
-## 📊 Dashboard Preview
+## 📊 Workflow & Dashboard Preview
 
-<img width="997" height="755" alt="Dashboard" src="https://github.com/user-attachments/assets/2021d131-460b-4d7e-9143-da40b0927436" />
+<img width="1000" alt="n8n Workflow" src="YOUR_N8N_WORKFLOW_IMAGE_LINK" />
 
-## 📌 Project Summary
+<img width="1000" alt="Power BI Dashboard" src="YOUR_POWERBI_DASHBOARD_IMAGE_LINK" />
 
-📊 This project analyzes global ski resort data to understand geographic distribution, pricing behavior, infrastructure strength, and market segmentation between premium and mid-tier resorts.
+---
 
-🎯 The dashboard was built using Looker Studio and Google Sheets to transform raw tourism data into interactive business insights and strategic analysis.
+# 📌 Project Summary
 
-📌 The project includes key analytical areas:
+📊 This project automates GitHub repository data collection from leading technology companies using the GitHub REST API.
 
-* 🌍 Global market distribution analysis
-* 💰 Pricing pattern analysis across countries
-* 🎿 Infrastructure analysis (slopes & lifts)
-* 🏔️ Resort performance comparison
+🎯 The project combines **Python**, **MySQL**, **n8n**, **Google Sheets**, and **Power BI** to demonstrate a complete data analytics automation pipeline.
 
-## 🚀 Tech Stack
+The workflow includes:
+
+* GitHub API data collection
+* Python data cleaning
+* SQL database storage
+* Automated workflow using n8n
+* Google Sheets integration
+* Automatic Power BI dashboard updates
+
+---
+
+# 🚀 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20API-181717?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
 </p>
 
-## 🎯 Objectives
+---
 
-1. Analyze global distribution of ski resorts
-2. Understand pricing differences across countries
-3. Study infrastructure strength (slopes and lifts)
-4. Identify premium vs mid-tier resort behavior
-5. Evaluate market dominance by region
-6. Compare resort performance across countries
-7. Extract business insights from tourism data
+# 🎯 Project Objectives
 
-## ⚡ Tech Hacks
+1. Automate GitHub repository data collection.
+2. Clean and standardize repository data.
+3. Store structured repository information.
+4. Build an automated data pipeline.
+5. Automatically update reporting dashboards.
+6. Reduce manual data processing.
+7. Demonstrate end-to-end analytics automation.
 
-* Built an interactive dashboard using Looker Studio for tourism analytics
-* Used Google Sheets for data cleaning and preparation
-* Analyzed 499 ski resorts across multiple countries
-* Identified Europe as the dominant ski tourism market (~70%)
-* Performed pricing analysis across premium and mid-tier regions
-* Evaluated infrastructure patterns using slopes and lift data
-* Found clustering of resorts around ~600 slope capacity
-* Derived business insights for tourism and pricing strategy
+---
 
-## 📊 Key Metrics
+# ⚙️ Project Workflow
 
-* 🌍 Total Resorts Analyzed: 499
-* 🎿 Total Slopes: 42,867
-* 🚡 Total Lifts: 12,107
-* 💰 Europe Market Share: ~70%
-* 🏔️ Average Infrastructure Cluster: ~600 slopes per resort
+```
+GitHub REST API
+        │
+        ▼
+Python Data Collection
+        │
+        ▼
+Python Data Cleaning
+        │
+        ▼
+MySQL Database Storage
+        │
+        ▼
+n8n Automation Workflow
+        │
+        ▼
+Google Sheets
+        │
+        ▼
+Power BI Dashboard
+```
 
-## 🔍 Key Insights
+---
 
-1. 🌍 Europe dominates global ski tourism with ~70% of resorts
-2. 💰 USA, Switzerland, and Austria show premium pricing trends
-3. 🎿 Infrastructure is highly standardized across most resorts
-4. 🏔️ Most resorts cluster around mid-scale capacity (~600 slopes)
-5. 📉 Pricing is driven more by geography than infrastructure size
-6. 🌎 Asia and South America remain emerging ski markets
-7. 📊 Clear segmentation exists between premium and mid-tier resorts
+# 🐍 Phase 1 – GitHub API Data Collection (Python)
 
-## 📌 Conclusion
+Python was used to connect to the GitHub REST API and collect repository information from multiple technology companies.
 
-* The global ski industry is heavily concentrated in Europe
-* Pricing strategies are influenced more by location and demand than infrastructure
-* Ski resorts show standardized infrastructure development patterns
-* The market clearly segments into premium and mid-tier categories
-* Looker Studio effectively transforms tourism data into actionable business insights
-* Data-driven analysis helps understand geography, pricing, and tourism behavior
+### Tasks Performed
 
-## 🛠️ Tools Used
+- Connected to GitHub REST API using Personal Access Token
+- Retrieved repository information
+- Collected repository metadata
+- Stored raw repository dataset
 
-* Looker Studio
-* Google Sheets
-* Data Analysis & Visualization
+### Companies Collected
 
-## 👤 Author
+- Microsoft
+- Google
+- Oracle
+- IBM
+- SAP
+- Salesforce
+- Snowflake
+- SAS
 
-Rekaa
+---
+
+# 🧹 Phase 2 – Data Cleaning (Python)
+
+Python was used to prepare the raw dataset before automation.
+
+### Cleaning Steps
+
+✔ Removed duplicate repositories
+
+✔ Handled missing values
+
+✔ Standardized column names
+
+✔ Converted data types
+
+✔ Formatted date columns
+
+✔ Exported clean CSV
+
+✔ Generated Excel dataset
+
+✔ Created SQL insert script
+
+---
+
+# 🗄️ Phase 3 – SQL Database
+
+MySQL was used as the structured storage layer.
+
+### Database Activities
+
+- Created `github_repositories` table
+- Imported cleaned repository data
+- Executed SQL validation queries
+- Verified row counts
+- Used SQL for structured storage
+
+### Example Query
+
+```sql
+SELECT COUNT(*) FROM github_repositories;
+```
+
+> **Note**
+>
+> The MySQL server is hosted locally (localhost). Since this automation runs on **n8n Cloud**, a live connection between n8n Cloud and the local MySQL server could not be established. Therefore, Google Sheets is used as the cloud-based storage layer in the automated workflow.
+
+---
+
+# 🔄 Phase 4 – Automation using n8n
+
+The automation workflow was built using n8n.
+
+### Workflow Steps
+
+1. Schedule Trigger
+2. Fetch GitHub repositories
+3. JavaScript data cleaning
+4. Remove duplicate repositories
+5. Transform repository fields
+6. Append cleaned data to Google Sheets
+
+---
+
+# ☁️ Phase 5 – Google Sheets Storage
+
+Google Sheets acts as the cloud storage layer.
+
+The workflow automatically:
+
+- Stores cleaned repository data
+- Appends newly collected repositories
+- Serves as the Power BI data source
+
+---
+
+# 📊 Phase 6 – Power BI Dashboard
+
+Power BI is connected to Google Sheets.
+
+Whenever the n8n workflow executes:
+
+✔ New GitHub repositories are collected
+
+✔ Google Sheets is updated automatically
+
+✔ Power BI displays the latest repository information after refresh
+
+---
+
+# 📊 Dashboard Features
+
+- Total Repositories
+- Total Stars
+- Total Forks
+- Total Watchers
+- Total Open Issues
+- Repository Distribution by Company
+- Programming Language Analysis
+- Top Repositories by Stars
+- Active vs Archived Repositories
+- Interactive Filters
+
+---
+
+# ⚡ Key Features
+
+- GitHub API Integration
+- Python Data Collection
+- Python Data Cleaning
+- SQL Database Design
+- n8n Workflow Automation
+- Google Sheets Integration
+- Power BI Dashboard
+- Automatic Data Refresh
+
+---
+
+# 📈 Results
+
+- Automated GitHub repository collection
+- Cleaned and standardized repository data
+- Structured SQL storage
+- Cloud-based automated workflow
+- Automatic Google Sheets update
+- Automatic Power BI dashboard refresh
+- Reduced manual effort
+
+---
+
+# 🔮 Future Enhancements
+
+- Cloud MySQL Integration
+- Email Notifications
+- Telegram Notifications
+- Incremental Repository Updates
+- Automated Power BI Refresh
+- Cloud Database Deployment
+
+---
+
+# 🛠️ Tools Used
+
+- Python
+- GitHub REST API
+- MySQL
+- n8n
+- JavaScript
+- Google Sheets
+- Power BI
+
+---
+
+# 👤 Author
+
+**S. Rekaa**
+
 📊 Aspiring Data Analyst
-🚀 Open to opportunities
 
-## 📌 Live Dashboard  
-Click below to explore interactive dashboard:  
-https://datastudio.google.com/s/httDFT-8bWU
+🚀 Open to Data Analyst Opportunities
